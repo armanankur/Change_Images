@@ -1,0 +1,9 @@
+button {
+  height: 2rem;
+  width: 4rem;
+  align-items: flex-end;
+  border-radius: 1rem;
+  outline: none;
+  color: white;
+  background-color: red;
+}
